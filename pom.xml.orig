@@ -1,0 +1,8 @@
+this is common file
+<<<<<<< HEAD
+ansible file is added
+=======
+docker file is  added
+jenkinsfile is added
+
+>>>>>>> master
