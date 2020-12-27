@@ -1,4 +1,6 @@
 this is common file
+<<<<<<< HEAD
 docker file is  added
+=======
 jenkinsfile is added
-
+>>>>>>> master
